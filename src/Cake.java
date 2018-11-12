@@ -22,7 +22,7 @@ import java.util.ArrayList;
         {
             System.out.println(" "+toString());
         }
-    //Выводит добавки и стоимость торта
+    //Выводит добавки и стоимость
     public String toString(){
         return ("Cake [ additive : "+name+", price: "+price+" ]");
     }
